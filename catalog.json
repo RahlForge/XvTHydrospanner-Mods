@@ -1,0 +1,26 @@
+{
+  "Version": "1.0",
+  "RepositoryUrl": "https://github.com/RahlForge/XvTHydrospanner-Mods",
+  "Files": [
+    {
+      "DownloadUrl": "https://raw.githubusercontent.com/RahlForge/XvTHydrospanner-Mods/main/files/830e2a1e-7369-4615-acd9-50ba87a6f05e.txt",
+      "Sha": null,
+      "IsDownloaded": false,
+      "Id": "830e2a1e-7369-4615-acd9-50ba87a6f05e",
+      "Name": "readme",
+      "Description": "Part of xwing_ddraw_d3d11_1.5.14",
+      "StoragePath": "",
+      "OriginalFileName": "readme.txt",
+      "FileExtension": ".txt",
+      "Category": 4,
+      "TargetRelativePath": "readme.txt",
+      "FileSizeBytes": 2508,
+      "DateAdded": "2025-12-08T14:05:15.8410006-05:00",
+      "Tags": [],
+      "Author": null,
+      "Version": null,
+      "ModPackageId": "e35857ce-27c5-4541-a4d8-eb642b55ceaa"
+    }
+  ],
+  "Packages": []
+}
