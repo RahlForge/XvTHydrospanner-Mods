@@ -248,6 +248,25 @@
       "Author": null,
       "Version": null,
       "ModPackageId": "1bdabaa6-ca61-42ca-a41d-ad2c71e97e6c"
+    },
+    {
+      "DownloadUrl": "https://raw.githubusercontent.com/RahlForge/XvTHydrospanner-Mods/main/files/c395a4ff-9281-48d1-8504-5e23439cdfb9.dll",
+      "Sha": null,
+      "IsDownloaded": false,
+      "Id": "c395a4ff-9281-48d1-8504-5e23439cdfb9",
+      "Name": "Hook_60FPS",
+      "Description": "Part of 60fps Fix",
+      "StoragePath": "",
+      "OriginalFileName": "Hook_60FPS.dll",
+      "FileExtension": ".dll",
+      "Category": 11,
+      "TargetRelativePath": "Hook_60FPS.dll",
+      "FileSizeBytes": 9728,
+      "DateAdded": "2025-12-10T22:51:34.4604757-05:00",
+      "Tags": [],
+      "Author": null,
+      "Version": null,
+      "ModPackageId": "1bdabaa6-ca61-42ca-a41d-ad2c71e97e6c"
     }
   ],
   "Packages": [
