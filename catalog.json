@@ -465,6 +465,26 @@
         "42c27305-133a-4b4d-b636-25888f3ee518",
         "eb223c9b-43f9-453a-9a24-0e1ce3c0452c"
       ]
+    },
+    {
+      "DownloadUrl": "https://raw.githubusercontent.com/RahlForge/XvTHydrospanner-Mods/main/packages/cca9ef25-c655-4d43-b3ed-4afec2ce96b6.zip",
+      "Sha": null,
+      "IsDownloaded": false,
+      "Id": "cca9ef25-c655-4d43-b3ed-4afec2ce96b6",
+      "Name": "10-Melees-in-1",
+      "Description": "New Melee missions that allow for uneven team melees without AI players (e.g. 1v3, 1v1v1, etc).",
+      "Author": null,
+      "Version": null,
+      "DateAdded": "2025-12-10T22:32:00.5807821-05:00",
+      "Tags": [],
+      "FileIds": [
+        "12659ad6-dce8-48af-90ec-8b0d8f18751f",
+        "e9641fe5-42c9-4092-abd9-21601df24b84",
+        "cc20dff9-d4d6-4b25-bd07-8cebb6642178",
+        "a7e403a1-63b1-401a-b6c2-0932258c800f",
+        "b2d0f465-2a54-4f69-894b-2b855b7d5804",
+        "397664f6-5f82-4443-a163-9242c771b609"
+      ]
     }
   ]
 }
