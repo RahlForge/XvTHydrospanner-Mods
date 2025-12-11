@@ -134,6 +134,25 @@
       "Author": null,
       "Version": null,
       "ModPackageId": "d9dbf8fa-849e-4322-b627-4467832893a8"
+    },
+    {
+      "DownloadUrl": "https://raw.githubusercontent.com/RahlForge/XvTHydrospanner-Mods/main/files/09c7e28f-ba89-40ec-bba6-f6685db40a2b.txt",
+      "Sha": null,
+      "IsDownloaded": false,
+      "Id": "09c7e28f-ba89-40ec-bba6-f6685db40a2b",
+      "Name": "nopowervr",
+      "Description": "Part of DDraw 3D Rendering Fix",
+      "StoragePath": "",
+      "OriginalFileName": "nopowervr.txt",
+      "FileExtension": ".txt",
+      "Category": 4,
+      "TargetRelativePath": "BalanceOfPower/nopowervr.txt",
+      "FileSizeBytes": 295,
+      "DateAdded": "2025-12-10T22:41:07.3522169-05:00",
+      "Tags": [],
+      "Author": null,
+      "Version": null,
+      "ModPackageId": "d9dbf8fa-849e-4322-b627-4467832893a8"
     }
   ],
   "Packages": []
