@@ -465,6 +465,26 @@
         "42c27305-133a-4b4d-b636-25888f3ee518",
         "eb223c9b-43f9-453a-9a24-0e1ce3c0452c"
       ]
+    },
+    {
+      "DownloadUrl": "https://raw.githubusercontent.com/RahlForge/XvTHydrospanner-Mods/main/packages/c2c77a67-3ca8-42e5-bc08-99adbba79daf.zip",
+      "Sha": null,
+      "IsDownloaded": false,
+      "Id": "c2c77a67-3ca8-42e5-bc08-99adbba79daf",
+      "Name": "10-Melees-in-1 and 3-Player FFA Custom Missions",
+      "Description": "The 10 Melees in 1 is a mission that allows us to play uneven team melees without AI players (e.g., one versus three).\r\n\r\nThe 3 Player FFA or 1v1v1 has corrected start points so that the match is more balanced.",
+      "Author": null,
+      "Version": null,
+      "DateAdded": "2025-12-10T23:33:16.0340503-05:00",
+      "Tags": [],
+      "FileIds": [
+        "84bf8e44-c27f-4b4d-9802-bb797bac7586",
+        "a1b4d58f-8693-4c60-8d8d-7fcbbb6fdcbd",
+        "ac20b528-ff64-46b2-8941-8c6d73579464",
+        "ebeef3db-95b8-48f8-abad-04212ff68bbe",
+        "27cd1330-45b9-4e5f-bef1-dc913187eab7",
+        "6cb32ba6-07fd-49ed-bbb9-ef06e427eec1"
+      ]
     }
   ]
 }
