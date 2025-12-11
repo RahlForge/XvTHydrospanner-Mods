@@ -172,6 +172,25 @@
       "Author": null,
       "Version": null,
       "ModPackageId": "d9dbf8fa-849e-4322-b627-4467832893a8"
+    },
+    {
+      "DownloadUrl": "https://raw.githubusercontent.com/RahlForge/XvTHydrospanner-Mods/main/files/0f71e545-dbd1-475e-a653-5e1799152ee1.txt",
+      "Sha": null,
+      "IsDownloaded": false,
+      "Id": "0f71e545-dbd1-475e-a653-5e1799152ee1",
+      "Name": "readme",
+      "Description": "Part of DDraw 3D Rendering Fix",
+      "StoragePath": "",
+      "OriginalFileName": "readme.txt",
+      "FileExtension": ".txt",
+      "Category": 4,
+      "TargetRelativePath": "readme.txt",
+      "FileSizeBytes": 2508,
+      "DateAdded": "2025-12-10T22:41:07.3844108-05:00",
+      "Tags": [],
+      "Author": null,
+      "Version": null,
+      "ModPackageId": "d9dbf8fa-849e-4322-b627-4467832893a8"
     }
   ],
   "Packages": []
