@@ -400,6 +400,25 @@
       "Author": null,
       "Version": null,
       "ModPackageId": "cca9ef25-c655-4d43-b3ed-4afec2ce96b6"
+    },
+    {
+      "DownloadUrl": "https://raw.githubusercontent.com/RahlForge/XvTHydrospanner-Mods/main/files/397664f6-5f82-4443-a163-9242c771b609.LST",
+      "Sha": null,
+      "IsDownloaded": false,
+      "Id": "397664f6-5f82-4443-a163-9242c771b609",
+      "Name": "MISSION",
+      "Description": "Part of 10-Melees-in-1",
+      "StoragePath": "",
+      "OriginalFileName": "MISSION.LST",
+      "FileExtension": ".LST",
+      "Category": 8,
+      "TargetRelativePath": "MELEE/MISSION.LST",
+      "FileSizeBytes": 1204,
+      "DateAdded": "2025-12-10T22:32:00.6312439-05:00",
+      "Tags": [],
+      "Author": null,
+      "Version": null,
+      "ModPackageId": "cca9ef25-c655-4d43-b3ed-4afec2ce96b6"
     }
   ],
   "Packages": [
