@@ -115,6 +115,25 @@
       "Author": null,
       "Version": null,
       "ModPackageId": "d9dbf8fa-849e-4322-b627-4467832893a8"
+    },
+    {
+      "DownloadUrl": "https://raw.githubusercontent.com/RahlForge/XvTHydrospanner-Mods/main/files/4db69a61-70ac-47f8-9408-58b26df139b3.dll",
+      "Sha": null,
+      "IsDownloaded": false,
+      "Id": "4db69a61-70ac-47f8-9408-58b26df139b3",
+      "Name": "ddraw",
+      "Description": "Part of DDraw 3D Rendering Fix",
+      "StoragePath": "",
+      "OriginalFileName": "ddraw.dll",
+      "FileExtension": ".dll",
+      "Category": 11,
+      "TargetRelativePath": "ddraw.dll",
+      "FileSizeBytes": 345240,
+      "DateAdded": "2025-12-10T22:41:07.341048-05:00",
+      "Tags": [],
+      "Author": null,
+      "Version": null,
+      "ModPackageId": "d9dbf8fa-849e-4322-b627-4467832893a8"
     }
   ],
   "Packages": []
