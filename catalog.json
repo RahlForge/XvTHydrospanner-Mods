@@ -343,6 +343,25 @@
       "Author": null,
       "Version": null,
       "ModPackageId": "cca9ef25-c655-4d43-b3ed-4afec2ce96b6"
+    },
+    {
+      "DownloadUrl": "https://raw.githubusercontent.com/RahlForge/XvTHydrospanner-Mods/main/files/cc20dff9-d4d6-4b25-bd07-8cebb6642178.tie",
+      "Sha": null,
+      "IsDownloaded": false,
+      "Id": "cc20dff9-d4d6-4b25-bd07-8cebb6642178",
+      "Name": "Melee1",
+      "Description": "Part of 10-Melees-in-1",
+      "StoragePath": "",
+      "OriginalFileName": "Melee1.tie",
+      "FileExtension": ".tie",
+      "Category": 9,
+      "TargetRelativePath": "BalanceOfPower/MELEE/Melee1.tie",
+      "FileSizeBytes": 92112,
+      "DateAdded": "2025-12-10T22:32:00.6012339-05:00",
+      "Tags": [],
+      "Author": null,
+      "Version": null,
+      "ModPackageId": "cca9ef25-c655-4d43-b3ed-4afec2ce96b6"
     }
   ],
   "Packages": [
