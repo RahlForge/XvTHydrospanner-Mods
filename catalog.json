@@ -331,6 +331,26 @@
         "fe5b38b3-f390-4f27-b497-93e1dc81b08c",
         "0f71e545-dbd1-475e-a653-5e1799152ee1"
       ]
+    },
+    {
+      "DownloadUrl": "https://raw.githubusercontent.com/RahlForge/XvTHydrospanner-Mods/main/packages/1bdabaa6-ca61-42ca-a41d-ad2c71e97e6c.zip",
+      "Sha": null,
+      "IsDownloaded": false,
+      "Id": "1bdabaa6-ca61-42ca-a41d-ad2c71e97e6c",
+      "Name": "60fps Fix",
+      "Description": "This mod changes the engine default of 30fps to 60fps.",
+      "Author": null,
+      "Version": null,
+      "DateAdded": "2025-12-10T22:51:34.4226359-05:00",
+      "Tags": [],
+      "FileIds": [
+        "3b0fdc8e-9b4d-4f58-b599-0471d9dc61e7",
+        "ceaaf0d5-0f74-41a2-8083-39e501a2fbfd",
+        "0518f613-2720-4a54-ba89-e8ffe94ac733",
+        "c395a4ff-9281-48d1-8504-5e23439cdfb9",
+        "42c27305-133a-4b4d-b636-25888f3ee518",
+        "eb223c9b-43f9-453a-9a24-0e1ce3c0452c"
+      ]
     }
   ]
 }
