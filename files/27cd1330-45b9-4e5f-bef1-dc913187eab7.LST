@@ -1,0 +1,84 @@
+//
+[Free-For-Alls]
+//
+0
+8MF1XW00.tie
+Basic Furball
+1
+8MF1FW01.tie
+Furball with Wingmen
+2
+8MF1AW02.tie
+Furball in an Asteroid Cluster
+3
+8MF2AB03.tie
+Furball for Two-Man Teams
+4
+8MF2VB04.tie
+Furball in an Asteroid Cluster for Two-Man Teams
+5
+8MF4FB05.tie
+Furball with 2 Four-Man Teams
+100
+3x3melee.tie
+Furball for Three-Man Teams
+//
+[Custom Melees]
+//
+19
+Melee1.tie
+10 Melees in One
+20
+3pffa.tie
+FFA for Three Players
+//
+[ImpTac Ship Patch]
+//
+11
+spfbalv4.tie
+Ship Patch Furball
+12
+sbfb2.tie
+Patch Furball for Two-Man Teams
+13
+sbfb4.tie
+Patch Furball for Four-Man Teams
+14
+sp2pure.tie
+Patch 2v2 for Pure Teams
+15
+sp2mix.tie
+Patch 2v2 for Rebel and Imperial Mixes
+101
+sp3x3melee.tie
+Patch Furball for Three-Man Teams
+16
+sp4mix.tie
+Patch 4v4 for Rebel and Imperial Mixes
+17
+sp4imp.tie
+Patch 4v4 for Pure Imperial Teams
+18
+sp4reb.tie
+Patch 4v4 for Pure Rebel Teams
+//
+[Shooting Gallery]
+//
+6
+8MA1VW07.tie
+Pirate Targets
+7
+8MA1GW09.tie
+Mineclearing
+8
+8MA2ZW06.tie
+Turkey Shoot for Two-Man Teams
+//
+[Special Skills]
+//
+9
+8MA2YW10.tie
+Destroy Rivals' Supply Cache for Two-Man Teams
+10
+8ME2YW13.tie
+Escort Duty for Two-Man Teams
