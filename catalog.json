@@ -343,6 +343,25 @@
       "Author": null,
       "Version": null,
       "ModPackageId": "84f449c5-5cc9-416c-88e5-98ca230d45f5"
+    },
+    {
+      "DownloadUrl": "https://raw.githubusercontent.com/RahlForge/XvTHydrospanner-Mods/main/files/115a2dbc-05c6-4b0c-b87a-f45a4f095bcd.tie",
+      "Sha": null,
+      "IsDownloaded": false,
+      "Id": "115a2dbc-05c6-4b0c-b87a-f45a4f095bcd",
+      "Name": "Melee1",
+      "Description": "Part of 10-Melees-in-1 and 3-Player FFA Custom Missions",
+      "StoragePath": "",
+      "OriginalFileName": "Melee1.tie",
+      "FileExtension": ".tie",
+      "Category": 9,
+      "TargetRelativePath": "BalanceOfPower/MELEE/Melee1.tie",
+      "FileSizeBytes": 92112,
+      "DateAdded": "2025-12-11T16:57:07.571309-05:00",
+      "Tags": [],
+      "Author": null,
+      "Version": null,
+      "ModPackageId": "84f449c5-5cc9-416c-88e5-98ca230d45f5"
     }
   ],
   "Packages": [
