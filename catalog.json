@@ -191,6 +191,25 @@
       "Author": null,
       "Version": null,
       "ModPackageId": "d9dbf8fa-849e-4322-b627-4467832893a8"
+    },
+    {
+      "DownloadUrl": "https://raw.githubusercontent.com/RahlForge/XvTHydrospanner-Mods/main/files/3b0fdc8e-9b4d-4f58-b599-0471d9dc61e7.dll",
+      "Sha": null,
+      "IsDownloaded": false,
+      "Id": "3b0fdc8e-9b4d-4f58-b599-0471d9dc61e7",
+      "Name": "dinput",
+      "Description": "Part of 60fps Fix",
+      "StoragePath": "",
+      "OriginalFileName": "dinput.dll",
+      "FileExtension": ".dll",
+      "Category": 11,
+      "TargetRelativePath": "BalanceOfPower/dinput.dll",
+      "FileSizeBytes": 225280,
+      "DateAdded": "2025-12-10T22:51:34.4251304-05:00",
+      "Tags": [],
+      "Author": null,
+      "Version": null,
+      "ModPackageId": "1bdabaa6-ca61-42ca-a41d-ad2c71e97e6c"
     }
   ],
   "Packages": [
@@ -219,5 +238,4 @@
       ]
     }
   ]
-
 }
