@@ -212,5 +212,30 @@
       "ModPackageId": "d9dbf8fa-849e-4322-b627-4467832893a8"
     }
   ],
-  "Packages": []
+  "Packages": [
+    {
+      "DownloadUrl": "https://raw.githubusercontent.com/RahlForge/XvTHydrospanner-Mods/main/packages/d9dbf8fa-849e-4322-b627-4467832893a8.zip",
+      "Sha": null,
+      "IsDownloaded": false,
+      "Id": "d9dbf8fa-849e-4322-b627-4467832893a8",
+      "Name": "DDraw 3D Rendering Fix",
+      "Description": "This mod corrects 3D rendering by XvT.\r\n\r\nADVANCED: The mod allows for additional options; review the readme included in the download for additional information. Just remember, if you want to change something in the ddraw.cfg, remember that the changes you make only affect the game in which the file is placed. For example, if you change only the ddraw.cfg in the XvT directory, you won't see any changes take effect in BoP and vice versa, so you must make the same change to the file located in both the XvT and BoP directories to have a consisten experience with both.\r\n\r\nIf you want to learn more about this mod, you can find the original mod post at https://www.xwaupgrade.com/phpBB3008/viewtopic.php?f=10&t=11519",
+      "Author": null,
+      "Version": null,
+      "DateAdded": "2025-12-10T22:41:07.292005-05:00",
+      "Tags": [],
+      "FileIds": [
+        "cf091304-2df2-40ba-b167-9835a6c7126c",
+        "376dc1e7-98e4-4d93-ac85-943acc21e7c8",
+        "62839a65-8c60-4474-b82d-e6b680eda137",
+        "f6e004a6-6dd4-4fe9-a074-6dd518801094",
+        "e95b853d-f660-44ee-9f98-b1814d83bc39",
+        "4db69a61-70ac-47f8-9408-58b26df139b3",
+        "09c7e28f-ba89-40ec-bba6-f6685db40a2b",
+        "a586541c-5cee-466a-90b2-19a3a0a6da27",
+        "fe5b38b3-f390-4f27-b497-93e1dc81b08c",
+        "0f71e545-dbd1-475e-a653-5e1799152ee1"
+      ]
+    }
+  ]
 }
